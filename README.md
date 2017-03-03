@@ -14,7 +14,7 @@ We won't get into testing our route handlers here, but this episode will give us
 
 [Test-driven development](http://en.wikipedia.org/wiki/Test-driven_development)
 
-[Mocha homepage](http://visionmedia.github.io/mocha/)
+[Mocha homepage](http://mochajs.org/)
 
 `./node_modules/mocha/bin/mocha path/to/test/file.js`
 
